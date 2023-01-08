@@ -19,7 +19,7 @@ Note that SVG images can be used just like any other image, eg:
 
 ### Active states
 
-To see how various elements change style when you click/hover/interact with them, see [./design/active-states.jpg](./design/active-states.jpg).
+To see how various elements change style when you click/hover/interact with them, see [./design/active-states.jpg](./desir3gn/active-states.jpg).
 
 For **base mode** buttons should have hover and active styles. Any interactivity (eg, clicking _Reply_ opens a form) is a **stretch goal**.
 
